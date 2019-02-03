@@ -18,5 +18,5 @@ class Shoe
   end 
   
   def size 
-end
+  end
 end 
